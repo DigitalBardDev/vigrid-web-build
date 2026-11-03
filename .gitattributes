@@ -1,0 +1,3 @@
+* linguist-language=GDScript
+*.js linguist-vendored=true
+*.html linguist-vendored=true
